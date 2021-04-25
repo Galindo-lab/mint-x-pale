@@ -1,0 +1,5 @@
+* mint-x-pale
+Tema obscuro para xed, el editor de texto de linux mint.
+El tema no es de mi autoria, es una modificacion del trabajo de [[https://github.com/vlad0337187][vlad0337187]], solo hice algunos ajustes menores a el color del texto seleccionado y al color de fondo.
+
+fuente del archivo modificado: https://github.com/linuxmint/xed/issues/243
